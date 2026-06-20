@@ -1,4 +1,4 @@
-Yes. Naan unga PDF-a pathen. Ithu **"A Prognostic Framework for Agricultural Enterprises"** Digital Twin Farming project. Based on ithu, AntiGravity-la oru **full demo website model** create panna structure ithu maari irukkum. PDF-la irukka concepts: Digital Twin, Data Integration, Simulation, Decision Support, Weather, Soil Sensors, Market Analysis. 
+
 
 ## Website Structure (Top → Bottom)
 
